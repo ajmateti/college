@@ -1,0 +1,29 @@
+mat-card
+{
+  width:40%;
+  height:80%;
+  margin:auto;
+  color:black;
+
+  align-items: center;
+
+  justify-content: center;
+  border-radius: 30px;
+}
+mat-form-field
+{
+  width:80%;
+  height:20px;
+  margin:40px;
+
+
+}
+mat-raised-button
+{
+  align-items: center;
+  justify-content: center;
+}
+#cent
+{
+  display: flex; justify-content: center;
+}
